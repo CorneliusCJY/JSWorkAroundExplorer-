@@ -11,13 +11,24 @@ WorkAround wanted their web app - named WorkAround Explorer - to allow users to 
 * The average salary at the chosen company across all roles.
 * The industry average salary across all roles and all companies.
 
-![pexels-thisisengineering-3861958](https://user-images.githubusercontent.com/60168324/123731021-3730ef00-d84c-11eb-94e6-342a70799abe.jpg)
-
-## Launch
-
-View WorkAround Explorer here: https://marisabrantley.github.io/workaround-explorer/
-
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
 JavaScript Syntax, Part III: ES6 Modules - using ES6 modules, a way to define and utilize reusable logic in programs.
+
+## Deadline
+
+- Submission    : 07 Apr 2022
+- Presentation  : 07 Apr 2022
+- 
+### Links
+
+- https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/es-6-modules/projects/es6-modules-workaround
+
+## Technologies
+
+- JavaScript ES6
+
+## Sources
+
+&copy; [Codecademy.com](https://codecademy.com) 2022.
